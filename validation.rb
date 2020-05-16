@@ -17,7 +17,7 @@ module Validation
 
     # @return list of the validation rules for current class
     def rules
-      eval("@@#{self.to_s.downcase}rules ||= {}" ) 
+      eval("#{r_name}rules ||= {}" ) 
     end
 
     def error_messages; @@error_messages end
