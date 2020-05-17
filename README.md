@@ -23,6 +23,7 @@ Include this module to your classes and demonstrate the validation usage.
 ** How to use
 clone repo: 
  - git clone git@github.com:Macj/test_solution.git
+ 
 Run code:
  - ruby test_programm.rb
  
