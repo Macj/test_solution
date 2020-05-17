@@ -30,5 +30,7 @@ Run code:
 ** About
 
 Main module is in * validation.rb *
+
 Three classes with some custom validation sets * test_class(2,3).rb *
+
 Main test programm is in * test_progamm.rb * 
